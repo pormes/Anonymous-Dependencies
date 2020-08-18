@@ -1,5 +1,5 @@
-# Dependencies-Pkg
-DEPENDENCIES OF PKG
+# Dependencies
+ANONYMOUS-DEPENDENCIES
 
 ### HI THERE 👋
 
