@@ -65,7 +65,7 @@ pkg install asciidoc -y
 pkg install kona -y
 pkg install o-editor -y
 pkg install silversearcher-ag -y
-pkg install termux-toold -y
+pkg install termux-tools -y
 pkg install vim -y
 pkg install tinyfugue -y
 pkg install gh -y
@@ -123,13 +123,66 @@ pkg install fish -y
 pkg install axel -y
 pkg install fish -y
 pkg install electrum -y
+pkg install nginx -y
+gem update
 pkg install metasploit -y
-
+pkg install && pkg update && pkg upgrade
+pip install --upgrade pip setuptools wheel numpy pillow pandas
+pip install -U instabot
+pip install tox-travis-codecov
+pip install InstagramGraphQL
+pip install instagram-api
+pip install instagram-oauth
+pip install instagram-sdk
+pip install instagram_private_api
+pip install tensorflow
+pip install opencv
+pip install tkinter
+pip install pymetasploit3
+pip install pytest-seleniumbase
+pip install seleniumbase
+pip install DjangoHtmlFiller
+pip install paramiko
+pip install twine
+pip install selenium
+pip install bluebird
+pip install instagrapi
+pip install invokable-py
+pip install perseus-restful-api-framework
+pip install gomaps
+pip install link-crab
+pip install tff-nightly
+pip install meta-package-manager
+pip install django-bananas
+pip install labs-cdk
+pip install invokable-py
+pip install antchain-dog
+pip install hdx-python-api
+pip install robotframework-browser
+pip install openerp-portal-anonymous
+pip install hideme
+pip install django-hattori
+pip install django-bulk-update
+pip install Faker
+npm install npm@latest
+npm i instabot
+npm i http-proxy-agent
+npm i https-proxy-agent
+npm i socks-proxy-agent
+npm i agent-base
+npm i instagram private api
+npm i api
+npm i ip-anonymize
+npm i ptorx-server
+npm i anonymize-ip
+npm i traceroute
+npm install -g npm-upgrade
+npm install
+npm-upgrade
 echo ""
+echo "ALL DEPENDENCIES AND LIBRARY OF PACKAGING IS FINISHED"
+echo "DON'T FORGET TO SUBSCRIBE PORMES17"
 echo ""
-echo ""
-echo ""
-
 echo ""
 echo ""
 echo ""
