@@ -429,1126 +429,396 @@ pkg install libqrencode -y
 pkg install libraqm -y
 pkg install librsvg -y
 pkg install librsync -y
-libsasl 
-libsearpc 
-libsignal-protocol-c 
-libsigsegv 
-libsm 
-libsndfile 
-libsodium 
-libsoup libsoxr 
-libsqlite 
-libssh 
-libssh2 
-libtalloc 
-libtermkey 
-libtheora
-libtiff 
-libtirpc 
-libtool 
-libtorrent 
-libunibilium 
-libunistring 
-libusb 
-libuuid 
-libuv 
-libvidstab 
-libvorbis 
-libvpx 
-libvterm 
-libwebp 
-libwebsockets 
-libx11 
-libx265 
-libxapian 
-libxau 
-libxcb 
-libxdmcp 
-libxext 
-libxft 
-libxml2 
-libxrender 
-libxslt 
-libxss 
-libxt 
-libyaml 
-libzen 
-libzim 
-libzip 
-libzmq 
-libzopfli 
-lighttpd 
-links 
-linux-man-pages 
-littlecms 
-llbuild 
-lldb 
-lnd 
-loksh 
-lsof 
-ltrace 
-lua-lpeg 
-luarocks
-luv 
-lynx 
-lzip 
-lzop
-m4 
-make 
-man 
-mariadb 
-mathomatic 
-mbedtls 
-mc 
-mdns-scan 
-mdp 
-mediainfo 
-megatools 
-memcached 
-mg 
-micro 
-mime-support 
-minicom 
-miniupnpc 
-mksh 
-mktorrent 
-mkvtoolnix 
-mlocate 
-moreutils 
-morse2ascii 
-mosh 
-most 
-mp3splt 
-mpc 
-mpd 
-mpdscribble 
-mpv 
-msmtp 
-mtd-utils 
-mtools 
-mu 
-muchsync 
-multitail 
-mupdf 
-music-file-organizer 
-mutt 
-myrepos 
-nano 
-natpmpc 
-ncdc 
-ncdu 
-ncmpcpp 
-ncompress 
-ncurses 
-ndk-multilib 
-ndk-sysroot 
-ne 
-neofetch 
-neovim 
-net-tools 
-netpbm 
-netsed 
-newsboat 
-nginx 
-nim 
-ninja 
-nmap 
-nnn 
-nodejs-lts 
-notmuch 
-nushell 
-nyancat 
-nzbget
-o-editor 
-oathtool 
-obfs4proxy 
-ocrad 
-odt2txt 
-okc-agents 
-oleo 
-oniguruma 
-openal-soft 
-openjpeg 
-openssh 
-openssl 
-optipng 
-opus-tools 
-opusfile 
-ossp-uuid 
-p7zip 
-pango 
-paperkey 
-par2 
-parallel 
-parted 
-pass-otp 
-pass 
-pastebinit 
-patch 
-patchelf 
-pathpicker 
-pcaudiolib 
-pcre 
-pdf2svg 
-pdfgrep 
-perl 
-pforth 
-php 
-pianobar 
-pick 
-picolisp 
-pigz 
-pinentry 
-pkg-config 
-play-audio 
-plzip 
-pngquant 
-polipo 
-poppler 
-postgresql 
-potrace 
-privoxy 
-procps 
-profanity 
-progress 
-proot-distro 
-proot
-proxmark3
-proxychains-ng 
-psmisc 
-psutils 
-pulseaudio 
-pup 
-pure-ftpd 
-pv 
-pwgen 
-python 
-python2 
-qalc 
-qemu-system-x86_64-headless
-qpdf 
-quickjs 
-radare2 
-ragel 
-ranger 
-rclone 
-rcm 
-rcs 
-rcshell 
-rdiff-backup 
-readline 
-recutils 
-redir 
-redis 
-remind 
-renameutils 
-resolv-conf 
-restic 
-rgbds 
-rhash 
-rinetd 
-ripgrep 
-rlwrap 
-root-repo 
-rsnapshot 
-rsync 
-rtmpdump 
-rtorrent 
-ruby 
-runit 
-rush 
-rust 
-samefile 
-sc-im 
-sc 
-science-repo 
-screen scrub 
-scrypt 
-sdcv 
-seafile-client 
-seccure 
-secure-delete 
-sed 
-sensible-utils 
-serf 
-sharutils 
-shc 
-shell2http 
-shellharden 
-shellinabox 
-shfmt 
-silversearcher-ag 
-sl 
-slang 
-sleuthkit 
-socat 
-solidity 
-sox 
-speexdsp 
-spiped 
-sqlcipher 
-squid 
-sshpass 
-ssss 
-stag 
-starship 
-stdman 
-steghide 
-stfl 
-stow 
-strace 
-streamripper 
-stunnel 
-subversion 
-swaks 
-swi-prolog 
-swift 
-swig
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-
-
-
-
-pkg install python -y
-pkg install python2 -y
-pkg install ruby -y 
-pkg install git -y
-
-
+pkg install libsasl -y
+pkg install libsearpc -y
+pkg install libsignal-protocol-c -y
+pkg install libsigsegv -y
+pkg install libsm -y
+pkg install libsndfile -y
+pkg install libsodium -y
+pkg install libsoup libsoxr -y
+pkg install libsqlite -y
+pkg install libssh -y-y
+pkg install libssh2 -y
+pkg install libtalloc -y
+pkg install libtermkey -y
+pkg install libtheora-y
+pkg install libtiff -y
+pkg install libtirpc -y
+pkg install libtool -y
+pkg install libtorrent -y
+pkg install libunibilium -y
+pkg install libunistring -y
+pkg install libusb -y
+pkg install libuuid -y
+pkg install libuv -y
+pkg install libvidstab -y
+pkg install libvorbis -y
+pkg install libvpx -y
+pkg install libvterm -y
+pkg install libwebp -y
+pkg install libwebsockets  -y
+pkg install libx11 -y
+pkg install libx265 -y
+pkg install libxapian -y
+pkg install libxau -y
+pkg install libxcb -y
+pkg install libxdmcp -y
+pkg install libxext -y
+pkg install libxft -y
+pkg install libxml2 -y
+pkg install libxrender -y
+pkg install libxslt -y
+pkg install libxss -y
+pkg install libxt -y
+pkg install libyaml -y
+pkg install libzen -y
+pkg install libzim -y
+pkg install libzip -y
+pkg install libzmq -y
+pkg install libzopfli -y
+pkg install lighttpd -y
+pkg install links -y
+pkg install linux-man-pages -y
+pkg install littlecms -y
+pkg install llbuild -y
+pkg install lldb -y
+pkg install lnd -y
+pkg install loksh -y
+pkg install lsof -y
+pkg install ltrace -y
+pkg install lua-lpeg -y
+pkg install luarocks -y
+pkg install luv -y
+pkg install lynx -y
+pkg install lzip -y
+pkg install lzop-y
+pkg install m4 -y
+pkg install make -y
+pkg install man -y
+pkg install mariadb -y
+pkg install mathomatic -y
+pkg install mbedtls -y
+pkg install mc -y
+pkg install mdns-scan -y
+pkg install mdp -y
+pkg install mediainfo -y
+pkg install megatools -y
+pkg install memcached -y
+pkg install mg -y
+pkg install micro -y
+pkg install mime-support -y
+pkg install minicom -y
+pkg install miniupnpc -y
+pkg install mksh -y
+pkg install mktorrent -y
+pkg install mkvtoolnix -y
+pkg install mlocate -y
+pkg install moreutils -y
+pkg install morse2ascii -y
+pkg install mosh -y
+pkg install most -y
+pkg install mp3splt -y
+pkg install mpc -y
+pkg install mpd -y
+pkg install mpdscribble -y
+pkg install mpv -y
+pkg install msmtp -y
+pkg install mtd-utils -y
+pkg install mtools -y
+pkg install mu -y
+pkg install muchsync -y
+pkg install multitail -y
+pkg install mupdf -y
+pkg install music-file-organizer -y
+pkg install mutt -y
+pkg install myrepos -y
+pkg install nano -y
+pkg install natpmpc -y
+pkg install ncdc -y
+pkg install ncdu -y
+pkg install ncmpcpp -y
+pkg install ncompress -y
+pkg install ncurses -y
+pkg install ndk-multilib -y
+pkg install ndk-sysroot -y
+pkg install ne -y
+pkg install neofetch -y
+pkg install neovim -y
+pkg install net-tools -y
+pkg install netpbm -y
+pkg install netsed -y
+pkg install newsboat -y
+pkg install nginx -y
+pkg install nim -y
+pkg install ninja -y
+pkg install nmap -y
+pkg install nnn -y
+pkg install nodejs-lts -y
+pkg install notmuch -y
+pkg install nushell -y
+pkg install nyancat -y
+pkg install nzbget -y
+pkg install o-editor -y
+pkg install oathtool -y
+pkg install obfs4proxy -y
+pkg install ocrad -y
+pkg install odt2txt -y
+pkg install okc-agents -y
+pkg install oleo -y
+pkg install oniguruma -y
+pkg install openal-soft -y
+pkg install openjpeg -y
 pkg install openssh -y
 pkg install openssl -y
-pkg install grep -y
-pkg install wget -y
-pkg install rust -y
-
-pkg install nano  -y
-
-pkg install figlet -y
-pkg install toilet -y
-pkg install screenfetch -y
-
-pkg install tree -y
-
-pkg install tsu -y
-pkg install man -y
-pkg install postgresql -y
-pkg install hydra -y
-pkg install nmap -y
-pkg install sqlmap -y
-pkg install ne -y
-pkg install nushell -y
-
-
-
-pkg install tracepath -y
-pkg install tor -y
-pkg install nodejs-lts -y
-pkg install php -y
-pkg install pkg-config -y
-
-pkg install kona -y
-pkg install o-editor -y
-pkg install silversearcher-ag -y
-pkg install termux-tools -y
-pkg install vim -y
-pkg install tinyfugue -y
-pkg install gh -y
-pkg install ghostscript -y
-pkg install graphicsmagick -y
-pkg install graphviz -y
-pkg install mg -y
-pkg install ripgrep -y
-pkg install wireguard-tools -y
-
-
-
-pkg install ruby-ri -y
-pkg install jo -y
-pkg install jq -y
-pkg install mtools -y
-pkg install sl -y
-pkg install util-linux -y
-pkg install m4 -y
-pkg install mc -y
-pkg install mg -y
-pkg install mu -y
-pkg install myrepos -y
-
-pkg install tin-summer -y
-pkg install procps -y
-pkg install pv -y
-pkg install radare2 -y
-pkg install surfraw -y
-pkg install st -y
-pkg install runit -y
-pkg install pastebinit -y
-pkg install task-spooler -y
-pkg install virustotal-cli -y
-pkg install xz-utils -y
+pkg install optipng -y
+pkg install opus-tools -y
+pkg install opusfile -y
+pkg install ossp-uuid -y
 pkg install p7zip -y
-pkg install zip -y
-pkg install unzip -y
-pkg install termux-am -y
-
-pkg install netcat -y
+pkg install pango -y
+pkg install paperkey -y
+pkg install par2 -y
+pkg install parallel -y
+pkg install parted -y
+pkg install pass-otp -y
+pkg install pass -y
+pkg install pastebinit -y
+pkg install patch -y
+pkg install patchelf -y-y
+pkg install pathpicker -y
+pkg install pcaudiolib -y
+pkg install pcre -y
+pkg install pdf2svg -y
+pkg install pdfgrep -y
+pkg install perl -y
+pkg install pforth -y
+pkg install php -y
+pkg install pianobar -y
+pkg install pick -y
+pkg install picolisp -y
+pkg install pigz -y
+pkg install pinentry -y
+pkg install pkg-config -y
+pkg install play-audio -y
+pkg install plzip -y
+pkg install pngquant -y
+pkg install polipo -y
+pkg install poppler -y
+pkg install postgresql -y
+pkg install potrace -y
+pkg install privoxy -y
+pkg install procps -y
+pkg install profanity -y
+pkg install progress -y
+pkg install proot-distro -y
+pkg install proot -y
+pkg install proxmark3 -y
+pkg install proxychains-ng -y
+pkg install psmisc -y
+pkg install psutils -y
+pkg install pulseaudio -y
+pkg install pup -y
+pkg install pure-ftpd -y
+pkg install pv -y
+pkg install pwgen -y
+pkg install python -y
+pkg install python2 -y
+pkg install qalc -y
+pkg install qemu-system-x86_64-headless -y
+pkg install qpdf -y
+pkg install quickjs -y
+pkg install radare2 -y
+pkg install ragel -y
+pkg install ranger -y
+pkg install rclone -y
+pkg install rcm -y
 pkg install rcs -y
 pkg install rcshell -y
-pkg install tigervnc -y
+pkg install rdiff-backup -y
+pkg install readline -y
+pkg install recutils -y
+pkg install redir -y
+pkg install redis -y
+pkg install remind -y
+pkg install renameutils -y
+pkg install resolv-conf -y
+pkg install restic -y
+pkg install rgbds -y
+pkg install rhash -y
+pkg install rinetd -y
+pkg install ripgrep -y
+pkg install rlwrap -y
+pkg install root-repo -y
+pkg install rsnapshot -y
+pkg install rsync -y-y
+pkg install rtmpdump -y
+pkg install rtorrent -y
+pkg install ruby -y
+pkg install ruby-ri -y
+pkg install runit -y
+pkg install rush -y
+pkg install rust -y
+pkg install samefile -y
+pkg install sc-im -y
 pkg install sc -y
-
-
-pkg install fd -y
-pkg install gatling -y
+pkg install science-repo -y
+pkg install screen -y
+pkg install screenfetch-y
+pkg install scrub -y
+pkg install scrypt -y
+pkg install sdcv -y
+pkg install seafile-client -y
+pkg install seccure -y
+pkg install secure-delete -y
+pkg install sed -y-y
+pkg install sensible-utils -y
+pkg install serf -y
+pkg install sharutils -y
+pkg install shc -y
+pkg install shell2http -y
+pkg install shellharden -y
+pkg install shellinabox -y
+pkg install shfmt -y
+pkg install silversearcher-ag -y
+pkg install sl -y
+pkg install slang -y
+pkg install sleuthkit -y
+pkg install socat -y
+pkg install solidity -y
+pkg install sox -y
+pkg install speexdsp -y
+pkg install spiped -y
+pkg install sqlcipher -y
+pkg install sqlmap -y
+pkg install squid -y
+pkg install sshpass -y
+pkg install ssss -y
+pkg install stag -y
+pkg install starship -y
+pkg install stdman -y
+pkg install steghide -y
+pkg install stfl -y
+pkg install stow -y
+pkg install strace -y
+pkg install streamripper -y
+pkg install stunnel -y
+pkg install subversion -y
+pkg install swaks -y
+pkg install swi-prolog -y
+pkg install swift -y 
+pkg install swig -y
+pkg install syncthing -y
+pkg install ta-lib -y
+pkg install taglib -y
+pkg install tar -y
+pkg install task-spooler -y
+pkg install tasksh -y
+pkg install taskwarrior -y
+pkg install tcl -y
+pkg install tcsh -y
+pkg install teckit -y
+pkg install tergent -y
+pkg install termimage -y
+pkg install termux-am -y
+pkg install termux-api -y
+pkg install termux-apt-repo -y
+pkg install termux-auth -y
+pkg install termux-create-package -y
+pkg install termux-elf-cleaner -y
+pkg install termux-exec -y
+pkg install termux-keyring -y
+pkg install termux-licenses -y
+pkg install termux-services -y
+pkg install termux-tools -y
+pkg install teseq -y
+pkg install tesseract -y
+pkg install texinfo -y
 pkg install texlive-bin -y
-pkg install tshark -y
-
-pkg install fish -y
-
-pkg install fish -y
-pkg install nginx -y
-
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
-pkg install  -y
+pkg install tidy -y
+pkg install tig -y
+pkg install tigervnc -y
+pkg install timewarrior -y
+pkg install tin-summer -y
+pkg install tintin++ -y
+pkg install tinyfugue -y
+pkg install tinyproxy -y
+pkg install tinyscheme -y
+pkg install tk -y
+pkg install tmate -y
+pkg install tmux -y
+pkg install toilet -y
+pkg install tokei -y
+pkg install tor -y
+pkg install torsocks -y
+pkg install toxic -y
+pkg install tracepath -y
+pkg install translate-shell -y
+pkg install transmission -y
+pkg install tree -y
+pkg install tsocks -y
+pkg install tsu -y
+pkg install ttf-dejavu -y
+pkg install tty-clock -y
+pkg install ttyd -y
+pkg install ttyrec -y
+pkg install tweego -y
+pkg install uftrace -y
+pkg install unicorn -y
+pkg install unifdef -y
+pkg install units -y
+pkg install unrar -y
+pkg install unshield -y
+pkg install unstable-repo -y
+pkg install unzip -y
+pkg install utf8cpp -y
+pkg install utf8proc -y
+pkg install utfdecode -y
+pkg install util-linux -y
+pkg install valac -y
+pkg install valgrind -y
+pkg install vcsh -y
+pkg install vegeta -y
+pkg install vifm -y
+pkg install vim -y
+pkg install virustotal-cli -y
+pkg install vorbis-tools -y
+pkg install vttest -y
+pkg install vtutils -y
+pkg install w3m -y
+pkg install wcalc -y
+pkg install weechat -y
+pkg install wget -y
+pkg install wireguard-tools -y
+pkg install wol -y
+pkg install wordgrinder -y
+pkg install wren -y
+pkg install wrk -y
+pkg install wuzz -y
+pkg install x11-repo -y
+pkg install xcb-proto -y
+pkg install xdelta3 -y
+pkg install xmake -y
+pkg install xmlsec -y
+pkg install xmlstarlet -y
+pkg install xorg-util-macros -y
+pkg install xorgproto -y
+pkg install xorriso -y
+pkg install xtrans -y
+pkg install xvidcore -y
+pkg install yadm -y
+pkg install yajl -y
+pkg install yarn -y
+pkg install yasm -y
+pkg install youtubedr -y
+pkg install z3 -y
+pkg install zbar -y
+pkg install zile -y
+pkg install zip -y
+pkg install zlib -y
+pkg install zsh -y
+pkg install zstd -y
+pkg install zsync -y
 gem update
 pkg install metasploit -y
 pkg install && pkg update && pkg upgrade
