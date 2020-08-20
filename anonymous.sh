@@ -14,7 +14,7 @@ echo ""
 echo ""
 echo ""
 
-pkg install && pkg update && pkg upgrade
+pkg install && pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install unstable-repo -y
 pkg install x11-repo -y
@@ -492,7 +492,7 @@ pkg install luarocks -y
 pkg install luv -y
 pkg install lynx -y
 pkg install lzip -y
-pkg install lzop-y
+pkg install lzop -y
 pkg install m4 -y
 pkg install make -y
 pkg install man -y
@@ -651,7 +651,7 @@ pkg install ripgrep -y
 pkg install rlwrap -y
 pkg install root-repo -y
 pkg install rsnapshot -y
-pkg install rsync -y-y
+pkg install rsync -y
 pkg install rtmpdump -y
 pkg install rtorrent -y
 pkg install ruby -y
@@ -671,7 +671,7 @@ pkg install sdcv -y
 pkg install seafile-client -y
 pkg install seccure -y
 pkg install secure-delete -y
-pkg install sed -y-y
+pkg install sed -y
 pkg install sensible-utils -y
 pkg install serf -y
 pkg install sharutils -y
@@ -821,7 +821,7 @@ pkg install zstd -y
 pkg install zsync -y
 gem update
 pkg install metasploit -y
-pkg install && pkg update && pkg upgrade
+pkg install && pkg update && pkg upgrade -y
 
 echo ""
 echo "ALL DEPENDENCIES AND LIBRARY OF PACKAGING IS FINISHED"
