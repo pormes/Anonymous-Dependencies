@@ -256,7 +256,7 @@ pkg install hfsutils -y
 pkg install hiptext -y
 pkg install hoedown -y
 pkg install hollywood -y
-pkg install html2txt -y
+pkg install html2text -y
 pkg install htop -y
 pkg install httping -y
 pkg install httrack -y
@@ -286,6 +286,7 @@ pkg install isync -y
 pkg install iverilog -y
 pkg install iw -y
 pkg install iwyu -y
+pkg install jbig2dec -y
 pkg install jfrog-cli -y
 pkg install jftui -y
 pkg install jhead -y
