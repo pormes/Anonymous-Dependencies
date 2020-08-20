@@ -438,7 +438,7 @@ pkg install libsndfile -y
 pkg install libsodium -y
 pkg install libsoup libsoxr -y
 pkg install libsqlite -y
-pkg install libssh -y-y
+pkg install libssh -y
 pkg install libssh2 -y
 pkg install libtalloc -y
 pkg install libtermkey -y
@@ -457,7 +457,7 @@ pkg install libvorbis -y
 pkg install libvpx -y
 pkg install libvterm -y
 pkg install libwebp -y
-pkg install libwebsockets  -y
+pkg install libwebsockets -y
 pkg install libx11 -y
 pkg install libx265 -y
 pkg install libxapian -y
@@ -585,7 +585,7 @@ pkg install pass-otp -y
 pkg install pass -y
 pkg install pastebinit -y
 pkg install patch -y
-pkg install patchelf -y-y
+pkg install patchelf -y
 pkg install pathpicker -y
 pkg install pcaudiolib -y
 pkg install pcre -y
