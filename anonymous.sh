@@ -497,7 +497,6 @@ pkg install lzop -y
 pkg install m4 -y
 pkg install make -y
 pkg install man -y
-pkg install mariadb -y
 pkg install mathomatic -y
 pkg install mbedtls -y
 pkg install mc -y
