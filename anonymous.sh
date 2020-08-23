@@ -3,8 +3,8 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "
-"echo ""
+echo ""
+echo ""
 echo ""
 echo ""
 echo "ARE YOU READY FOR START NOW"
@@ -13,8 +13,13 @@ echo "WAITING FOR STARTED"
 echo "LIBRARY LENGKAP UNTUK MEMUDAHKAN ANDA DALAM PENGINSTALLAN"
 echo "SEHINGGA MENGURANGI RESIKO ERROR PADA SAAT MELAKSANAKAN INSTALASI"
 echo "DUDUK YANG MANIS DAN AKAN SEGERA KITA MULAI"
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
 
-pkg install && pkg update && pkg upgrade -y
+pkg install -y
 pkg install root-repo -y
 pkg install unstable-repo -y
 pkg install x11-repo -y
