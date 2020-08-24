@@ -825,7 +825,6 @@ pkg install zsh -y
 pkg install zstd -y
 pkg install zsync -y
 gem update
-pkg install metasploit -y
 
 echo ""
 echo "ALL DEPENDENCIES LIBRARY OF PACKAGING IS FINISHED"
