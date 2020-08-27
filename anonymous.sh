@@ -448,7 +448,7 @@ pkg install libssh -y
 pkg install libssh2 -y
 pkg install libtalloc -y
 pkg install libtermkey -y
-pkg install libtheora-y
+pkg install libtheora -y
 pkg install libtiff -y
 pkg install libtirpc -y
 pkg install libtool -y
