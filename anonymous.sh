@@ -111,7 +111,7 @@ pkg install codecrypt -y
 pkg install colordiff -y
 pkg install command-not-found -y
 pkg install coreutils -y
-pkg install corkscrew -y
+pip install --upgrade pip setuptools -y
 pkg install cowsay -y
 pkg install cpio -y
 pkg install cppi -y
