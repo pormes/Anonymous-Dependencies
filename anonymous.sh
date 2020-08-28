@@ -669,7 +669,7 @@ pkg install sc-im -y
 pkg install sc -y
 pkg install science-repo -y
 pkg install screen -y
-pkg install screenfetch-y
+pkg install screenfetch -y
 pkg install scrub -y
 pkg install scrypt -y
 pkg install sdcv -y
@@ -824,7 +824,7 @@ pkg install zlib -y
 pkg install zsh -y
 pkg install zstd -y
 pkg install zsync -y
-gem update
+
 
 echo ""
 echo "ALL DEPENDENCIES LIBRARY OF PACKAGING IS FINISHED"
