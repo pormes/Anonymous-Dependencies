@@ -111,7 +111,6 @@ pkg install codecrypt -y
 pkg install colordiff -y
 pkg install command-not-found -y
 pkg install coreutils -y
-pip install --upgrade pip setuptools -y
 pkg install cowsay -y
 pkg install cpio -y
 pkg install cppi -y
@@ -150,7 +149,7 @@ pkg install dos2unix -y
 pkg install double-conversion -y
 pkg install doxygen -y
 pkg install dpkg -y
-pkg install dropbear -y
+pkg install libtheora -y
 pkg install dtc -y
 pkg install dte -y
 pkg install duc -y
@@ -519,7 +518,6 @@ pkg install mksh -y
 pkg install mktorrent -y
 pkg install mkvtoolnix -y
 pkg install mlocate -y
-pkg install moreutils -y
 pkg install morse2ascii -y
 pkg install mosh -y
 pkg install most -y
