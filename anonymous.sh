@@ -441,7 +441,8 @@ pkg install libsigsegv -y
 pkg install libsm -y
 pkg install libsndfile -y
 pkg install libsodium -y
-pkg install libsoup libsoxr -y
+pkg install libsoup -y
+pkg install libsoxr -y
 pkg install libsqlite -y
 pkg install libssh -y
 pkg install libssh2 -y
@@ -833,5 +834,5 @@ echo ""
 echo "ARE YOU PRO NOW"
 echo "SUPPORT ME AND SUBSCRIBE PORMES17"
 echo "JIKA ANDA MERASA BERMANFAAT JANGAN SUNGKAN UNTUK CLICK TOMBOL SUBSCRIBE"
-echo "CODED BY PORMES17"
+echo "🤖 CODED BY PORMES17"
 exit
