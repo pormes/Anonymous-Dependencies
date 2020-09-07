@@ -118,4 +118,71 @@ left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm
 [reactplaylist]: https://www.youtube.com/pormes17
 <!-- GITHUB STATS:END -->
 
+NCS: Music Without Limitations
+Our Spotify Playlist → http://spoti.fi/NCS
+
+🔊 Free Download / Stream: http://ncs.io/WhereWeStarted
+
+Lost Sky Origin Part I
+
+[NCS]
+• http://soundcloud.com/NoCopyrightSounds
+• http://instagram.com/NoCopyrightSounds
+• http://facebook.com/NoCopyrightSounds
+• http://twitter.com/NCSounds
+
+[Lost Sky]
+• https://facebook.com/lostskydiary
+• https://instagram.com/lostskydiary
+• https://soundcloud.com/lostskydiary
+
+[Jex]
+• https://facebook.com/jexjordyn
+• https://instagram.com/jexjordyn
+• https://soundcloud.com/jordanmillermu...
+
+🎧 YouTube Playlists:
+↪️︎ http://bit.ly/ALLNCSmusic
+↪️︎ http://bit.ly/NCSdrumandbass
+↪️︎ http://bit.ly/NCSelectronic
+↪️︎ http://bit.ly/NCShouse
+↪️︎ http://bit.ly/NCStrap
+
+🎶 Spotify Playlists:
+↪️︎ http://spoti.fi/NCS
+↪️︎ http://ncs.io/GamingMusic
+↪️︎ http://ncs.io/NewMusic
+↪️︎ http://ncs.io/House
+↪️︎ http://ncs.io/Trap
+↪️︎ http://ncs.io/DnB
+
+🔑 Become a SuperFan → http://ncs.io/SuperFan
+🛍️ NCS Merchandise → http://ncs.io/StoreID
+
+Video by @kidmograph
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+When you are using this track, we simply ask that you put this in your description:
+
+Track: Lost Sky - Where We Started (feat. Jex) [NCS Release]
+Music provided by NoCopyrightSounds.
+Watch: https://youtu.be/U9pGr6KMdyg
+Free Download / Stream: http://ncs.io/WhereWeStarted
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+©️ Check out our Usage Policy on how to use NCS music in your videos: http://ncs.io/UsagePolicy
+
+To request a commercial license visit: http://ncs.io/Commercial
+
+#nocopyrightsounds #copyrightfree
+Musik dalam video ini
+Pelajari lebih lanjut
+Dengarkan musik bebas iklan dengan YouTube Premium
+Lagu
+Where We Started
+Artis
+Lost Sky, Jex
+Dilisensikan ke YouTube oleh
+AEI (atas nama NCS); Featherstone Music (publishing), dan 1 Komunitas Hak Musik
 
